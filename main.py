@@ -10,6 +10,8 @@ from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 from flask_gravatar import Gravatar
 
 
+## baba black sheep
+
 # to check if user is admin ( imports ) #
 from functools import wraps
 from flask import abort
